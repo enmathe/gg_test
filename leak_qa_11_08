@@ -1,0 +1,2 @@
+conf.setString("job.cloud.awsaccessid", "AKIAJYQJRI7QH227NDQA");
+		conf.setString("job.cloud.awssecretkey", "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");
